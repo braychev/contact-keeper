@@ -1,5 +1,8 @@
 node_modules/
 config/*.json
+.openode
+Dockerfile
+docker-compose.yml
 
 /client/build
 .DS_Store
